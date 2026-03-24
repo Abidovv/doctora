@@ -58,8 +58,8 @@ function Home() {
             <FaQuoteRight className='quote' />
             <span className='star'><FaStar /><FaStar /><FaStar /><FaStar /><FaStar /></span>
             <p className='card__p'>"Doctor A Hospital provided excellent care  <br />
-              during my recovery. The staff was professional, <br />
-              caring, and attentive to all my needs. Highly <br />
+              during my recovery. The staff was professional, 
+              caring, and attentive to all my needs. Highly 
               recommended!"</p>
             <div className="line"></div>
             <p className="card__p2">Aziza Tursunova</p>
@@ -72,8 +72,8 @@ function Home() {
             <FaQuoteRight className='quote' />
             <span className='star'><FaStar /><FaStar /><FaStar /><FaStar /><FaStar /></span>
             <p className='card__p'>"The cardiology department at Doctor A is br
-              outstanding. Dr. Rahimov and his team saved <br />
-              my life. Forever grateful for their expertise and <br />
+              outstanding. Dr. Rahimov and his team saved 
+              my life. Forever grateful for their expertise and 
               dedication."</p>
             <div className="line"></div>
             <p className="card__p2">Jamshid Alimov</p>
@@ -84,11 +84,11 @@ function Home() {
 
 
 
-          <div className="test__icone1">
+          <div className="test__icone2">
             <FaQuoteRight className='quote' />
             <span className='star'><FaStar /><FaStar /><FaStar /><FaStar /><FaStar /></span>
-            <p className='card__pp3'>"As a mother, I trust Doctor A with my children's <br />
-              health. Dr. Nilufar is amazing with kids and the <br />
+            <p className='card__ppp3'>"As a mother, I trust Doctor A with my children's 
+              health. Dr. Nilufar is amazing with kids and the 
               pediatric department is top-notch."</p>
             <div className="line"></div>
             <p className="card__p2">Aziza Tursunova</p>

@@ -69,6 +69,16 @@
     margin-bottom: 30px;
     animation: test__card1 1s 2s 1 ease-in-out;
 }
+.test__icone2 {
+    width: 380px;
+   min-height: 340px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(235, 235, 235);
+    border-radius: 20px;
+    padding: 30px 30px;
+    margin-bottom: 30px;
+    animation: test__card1 1s 2s 1 ease-in-out;
+}
 @keyframes test__card1 {
     0%{
         transform: scale(0.5);
@@ -110,6 +120,14 @@
     margin-top: 16px;
     margin-bottom: 55px;
 }
+.card__ppp3 {
+    color: rgb(56, 56, 56);
+    font-style: italic;
+    font-size: 15px;
+    line-height: 1.8;
+    margin-top: 16px;
+    margin-bottom: 55px;
+}
 
 .line {
     width: 100%;
@@ -136,7 +154,7 @@
 @media screen and (max-width:1320px) {
     .testimonails {
         width: 100%;
-        height: 165vh;
+        height: 170vh;
     }
 
   
@@ -145,7 +163,7 @@
 @media screen and (max-width:920px) {
     .testimonails {
         width: 100%;
-        height: 225vh;
+        height: 240vh;
     }
 
   
@@ -180,13 +198,39 @@
         padding: 20px 20px;
         margin-bottom: 30px;
     }
+    
+    .card__pp3{
+        font-size: 13px;
+        margin-bottom: 20px;
+    }
+     .card__ppp3{
+        font-size: 13px;
+        margin-bottom: 50px;
+    }
 
     .test__h1 {
         font-size: 30px;
     }
+    
 }
 
 @media screen and (max-width:420px) {
+    .testimonails {
+        padding: -20px 40px;
+    }
+
+    .test__icone1 {
+        width: 340px;
+        height: 340px;
+        background-color: rgb(255, 255, 255);
+        border: 1px solid rgb(235, 235, 235);
+        border-radius: 20px;
+        padding: 20px 20px;
+        margin-bottom: 40px;
+    }
+    
+}
+@media screen and (max-width:410px) {
     .testimonails {
         padding: -20px 40px;
     }
@@ -197,7 +241,48 @@
         background-color: rgb(255, 255, 255);
         border: 1px solid rgb(235, 235, 235);
         border-radius: 20px;
-        padding: 15px 15px;
+        padding: 20px 20px;
+        margin-bottom: 40px;
+    }
+    
+}
+@media screen and (max-width:410px) {
+    .testimonails {
+        padding: -20px 40px;
+    }
+
+    .test__icone1 {
+        width: 340px;
+        height: 350px;
+        background-color: rgb(255, 255, 255);
+        border: 1px solid rgb(235, 235, 235);
+        border-radius: 20px;
+        padding: 20px 20px;
+        margin-bottom: 40px;
+    }
+    
+}
+@media screen and (max-width:384px) {
+    .testimonails {
+        padding: -20px 40px;
+    }
+
+    .test__icone1 {
+        width: 360px;
+        height: 370px;
+        background-color: rgb(255, 255, 255);
+        border: 1px solid rgb(235, 235, 235);
+        border-radius: 20px;
+        padding: 20px 20px;
+        margin-bottom: 40px;
+    }
+       .test__icone2 {
+        width: 360px;
+        height: 360px;
+        background-color: rgb(255, 255, 255);
+        border: 1px solid rgb(235, 235, 235);
+        border-radius: 20px;
+        padding: 20px 20px;
         margin-bottom: 40px;
     }
     
