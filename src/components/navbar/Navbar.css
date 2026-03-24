@@ -60,7 +60,7 @@
     box-shadow: 2px 0px 15px rgba(63, 62, 62, 0.26);
     position: fixed;
     z-index: 1000;
-    top: 40px;
+    top: 39px;
 }
 
 .doc_h1 {
@@ -252,4 +252,10 @@
         font-size: 13px;
         transform: translateY(-4px);
     }
+}
+@media screen and (max-width:420px) {
+  .nav{
+    top: 58px;
+  }
+    
 }
