@@ -1,4 +1,4 @@
-import { useState } from 'react'
+
 import './Navbar.css'
 import { FaRegClock } from "react-icons/fa6";
 import { FaBars } from "react-icons/fa6";
