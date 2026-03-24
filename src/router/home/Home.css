@@ -7,10 +7,10 @@
 
 .testimonails {
     width: 100%;
-    min-height: 100vh;
+    min-height: 103vh;
     background-color: rgba(240, 248, 255, 0.849);
-    padding: 50px 70px;
-    margin-top: 15vh;
+    padding: 70px 70px;
+    margin-top: 14vh;
 }
 
 .test__btn1 {
@@ -144,7 +144,7 @@
 @media screen and (max-width:600px) {
     .testimonails {
         padding: 30px 40px;
-        margin-top: 25vh;
+        margin-top: 20vh;
     }
 
 }

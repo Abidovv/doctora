@@ -59,9 +59,8 @@
     align-items: center;
     box-shadow: 2px 0px 15px rgba(63, 62, 62, 0.26);
     position: fixed;
-    margin-bottom: 300px;
     z-index: 1000;
-    top: 41px;
+    top: 40px;
 }
 
 .doc_h1 {
