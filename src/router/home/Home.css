@@ -169,9 +169,27 @@
   
     
 }
+@media screen and (max-width:720px) {
+    .testimonails {
+        padding: -20px 40px;
+        height: 230vh;
+    }
+
+    .test__icone1 {
+        width: 340px;
+        height: 340px;
+        background-color: rgb(255, 255, 255);
+        border: 1px solid rgb(235, 235, 235);
+        border-radius: 20px;
+        padding: 20px 20px;
+        margin-bottom: 40px;
+    }
+    
+}
 @media screen and (max-width:526px) {
     .testimonails {
         padding: 20px 40px;
+        height: 200vh;
     }
 
 }
@@ -180,6 +198,7 @@
     .testimonails {
         padding: 30px 40px;
         margin-top: 20vh;
+        height: 240vh;
     }
 
 }
@@ -187,6 +206,7 @@
 @media screen and (max-width:456px) {
     .testimonails {
         padding: -20px 40px;
+        height: 220vh;
     }
 
     .test__icone1 {
@@ -249,6 +269,7 @@
 @media screen and (max-width:410px) {
     .testimonails {
         padding: -20px 40px;
+        height: 225vh;
     }
 
     .test__icone1 {
@@ -265,7 +286,59 @@
 @media screen and (max-width:384px) {
     .testimonails {
         padding: -20px 40px;
-        height: 200vh;
+        height: 239vh;
+    }
+
+    .test__icone1 {
+        width: 360px;
+        height: 370px;
+        background-color: rgb(255, 255, 255);
+        border: 1px solid rgb(235, 235, 235);
+        border-radius: 20px;
+        padding: 20px 20px;
+        margin-bottom: 40px;
+    }
+       .test__icone2 {
+        width: 360px;
+        height: 360px;
+        background-color: rgb(255, 255, 255);
+        border: 1px solid rgb(235, 235, 235);
+        border-radius: 20px;
+        padding: 20px 20px;
+        margin-bottom: 40px;
+    }
+    
+}
+@media screen and (max-width:370px) {
+    .testimonails {
+        padding: -20px 40px;
+        height: 239vh;
+    }
+
+    .test__icone1 {
+        width: 360px;
+        height: 370px;
+        background-color: rgb(255, 255, 255);
+        border: 1px solid rgb(235, 235, 235);
+        border-radius: 20px;
+        padding: 20px 20px;
+        margin-bottom: 40px;
+    }
+       .test__icone2 {
+        width: 360px;
+        height: 360px;
+        background-color: rgb(255, 255, 255);
+        border: 1px solid rgb(235, 235, 235);
+        border-radius: 20px;
+        padding: 20px 20px;
+        margin-bottom: 40px;
+    }
+    
+}
+@media screen and (max-width:360px) {
+    .testimonails {
+        padding: -20px 40px;
+        height: 240vh;
     }
 
     .test__icone1 {
